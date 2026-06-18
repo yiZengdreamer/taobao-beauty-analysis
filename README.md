@@ -19,7 +19,7 @@
 3.  运行 Jupyter Notebook 或 Python 脚本。
 
 ## 📄 报告
-完整的分析报告请参考 [Report.pdf](data_analysis_2026.6.18.pdf)。
+完整的分析报告请参考 [Report.pdf](https://yizengdreamer.github.io/taobao-beauty-analysis/Report.pdf)
 
 ## 👤 关于作者
 曾伊 - 数据分析学习者
